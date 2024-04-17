@@ -22,4 +22,39 @@ Research Questions to Answer:
 4. In what region do people spend the most?
 5. Is there any correlation between customer income and purchase amount?
 
+****
+How to run code:
 
+To run the code open up the 'Project 1 code.ipynb' then run all cells.
+It will start with exploring the data by breaking down the various data types.
+Then it will go into each question and explore the specific data relating to the question.
+
+****
+
+Format:
+Data Exploration
+
+Question:  
+    Hypothesis and what question is being answered
+
+    Code breaking down what data will be analyized 
+
+    visulization of the data 
+
+    Analysis
+
+This format repeats for each question 
+
+All visulizations will be saved to the resource folder.
+
+****
+
+Resource Folder:
+Inside the resource folder is the data that is being analyzed along with all graphs and other visualizations that are made.
+There is also the starter code that the group used to start the analysis.
+
+
+Code by person:
+Inside this folder is the code that each person used broken down separately 
+
+    
