@@ -32,9 +32,10 @@ Then it will go into each question and explore the specific data relating to the
 ****
 
 FORMAT
+
 Data Exploration
 
-Question:  
+Question  
 
 Hypothesis and what question is being answered
     
@@ -44,9 +45,9 @@ Visualization of the data
 
 Analysis
 
-This format repeats for each question 
+*This format repeats for each question*
 
-All visualizations will be saved to the resource folder.
+*All visualizations will be saved to the resource folder*
 
 ****
 FOLDER BREAKDOWN
