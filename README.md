@@ -47,11 +47,13 @@ All visulizations will be saved to the resource folder.
 ****
 
 Resource Folder:
+
 Inside the resource folder is the data that is being analyzed along with all graphs and other visualizations that are made.
 There is also the starter code that the group used to start the analysis.
 
 
 Code by person:
+
 Inside this folder is the code that each person used broken down separately 
 
     
