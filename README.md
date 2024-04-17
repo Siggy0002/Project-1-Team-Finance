@@ -35,10 +35,14 @@ FORMAT
 Data Exploration
 
 Question:  
-    Hypothesis and what question is being answered
-    Code breaking down what data will be analyzed 
-    visualization of the data 
-    Analysis
+
+Hypothesis and what question is being answered
+    
+Code breaking down what data will be analyzed 
+
+Visualization of the data 
+
+Analysis
 
 This format repeats for each question 
 
