@@ -36,11 +36,8 @@ Data Exploration
 
 Question:  
     Hypothesis and what question is being answered
-
     Code breaking down what data will be analyized 
-
     visulization of the data 
-
     Analysis
 
 This format repeats for each question 
